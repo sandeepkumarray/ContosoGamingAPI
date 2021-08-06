@@ -42,3 +42,23 @@ A/C/2
 ### Development
 Dijkstra's algorithm fits best to solve this. [Wiki](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
+### API details : 
+#### AddRoute API
+
+It accepts Landmarks with their distance.
+
+It returns "DataStore added successfully." if its successfull.
+
+### GetDistanceViaRoute API
+
+It accepts landmarks separated with "-" forming a route.
+
+It returns distance of the route provided.
+
+### GetRoutes API
+
+It accepts start Landmark, End Landmark & number of stops allowed (Default is 2).
+
+It returns number of routes.
+
+
