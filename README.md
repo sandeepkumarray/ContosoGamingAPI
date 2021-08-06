@@ -22,7 +22,7 @@ Added source code to a public repository on GitHub.
 Step 1:
 Call AddRoutes API with following parameters
 AB3,BC9,CD3,DE6,AD4,DA5,CE2,AE4,EB1
-![AddRoutes](https://github.com/sandeepkumarray/ContosoGamingAPI/blob/master/Images/AddRoutes.png)
+![alt](https://github.com/sandeepkumarray/ContosoGamingAPI/blob/master/Images/AddRoutes.png)
 ```
 
 ```sh
