@@ -40,5 +40,5 @@ A/C/2
 ![GetRoutes](https://raw.githubusercontent.com/sandeepkumarray/ContosoGamingAPI/master/Images/GetRoutes.png)
 
 ### Development
-Dijkstra's algorithm fits best to solve this.
+Dijkstra's algorithm fits best to solve this. [Wiki](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
